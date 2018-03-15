@@ -9,5 +9,6 @@ public class Application {
 
         Calculator calculator = new Calculator();
         System.out.println(calculator.sum(10, 15));
+        System.out.println(calculator.sub(15, 10));
     }
 }

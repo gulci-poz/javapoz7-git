@@ -13,6 +13,5 @@ public class Application {
         System.out.println(calculator.sum(randomGenerator.getSmallNumber(), randomGenerator.getBigNumber()));
         System.out.println(calculator.sub(15, 10));
         System.out.println(calculator.factorial(5));
-        System.out.println("blabla2");
     }
 }
